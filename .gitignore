@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+*.so
+*.DS_Store
+*.h5
+*.onnx
+*.log
+*.csv
