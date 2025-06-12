@@ -41,7 +41,7 @@
    
 10. Test Real-time Detection:
     
-   python test.py
+    python test.py
 
-   The webcam will open and detect the hand signs in real time using the trained model.
+    The webcam will open and detect the hand signs in real time using the trained model.
    
